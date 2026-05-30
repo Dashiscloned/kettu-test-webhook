@@ -3,7 +3,7 @@
   "description": "Adds a + button to create Discord webhooks",
   "authors": [
     {
-      "name": "YourName"
+      "name": "Dash"
     }
   ],
   "main": "index.js"
